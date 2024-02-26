@@ -1,0 +1,26 @@
+
+header {
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+
+.cabecalho-imagem{
+
+    width: 20%;
+}
+
+.cabecalho{
+
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-lista-item{
+
+    display: inline-block;
+
+
+    
+}
